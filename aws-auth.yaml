@@ -1,0 +1,5 @@
+  mapUsers: |
+    - groups:
+      - roboshop-trainee
+      userarn: arn:aws:iam::315069654700:user/suresh
+      username: suresh
